@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Cave Story</GameName>
+  <CategoryName>CroakClip%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/03/2020 23:09:09" isStartedSynced="True" ended="06/03/2020 23:09:11" isEndedSynced="True" />
+    <Attempt id="2" started="06/03/2020 23:15:03" isStartedSynced="True" ended="06/03/2020 23:19:40" isEndedSynced="True" />
+    <Attempt id="3" started="06/03/2020 23:19:51" isStartedSynced="True" ended="06/03/2020 23:29:50" isEndedSynced="True">
+      <RealTime>00:09:59.7910000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Enter Egg</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:56.6270000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:56.6270000</RealTime>
+        </Time>
+        <Time id="3" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Igor</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:59.9760000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:59.9760000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:05:59.9760000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Enter Weed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:48.6600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:48.6840000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:48.6840000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>CroakClip</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:59.7910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:11.1310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:11.1310000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
