@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>92</AttemptCount>
+  <AttemptCount>100</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="09/18/2021 19:48:04" isStartedSynced="True" ended="09/18/2021 19:57:27" isEndedSynced="True" />
     <Attempt id="2" started="09/18/2021 19:57:39" isStartedSynced="True" ended="09/18/2021 20:19:35" isEndedSynced="True">
@@ -142,6 +142,23 @@
     <Attempt id="92" started="05/11/2023 20:23:47" isStartedSynced="True" ended="05/11/2023 20:42:12" isEndedSynced="True">
       <RealTime>00:18:24.7583113</RealTime>
       <GameTime>00:09:41.2703942</GameTime>
+    </Attempt>
+    <Attempt id="93" started="05/18/2023 19:55:09" isStartedSynced="True" ended="05/18/2023 19:58:31" isEndedSynced="True" />
+    <Attempt id="94" started="05/18/2023 19:58:42" isStartedSynced="True" ended="05/18/2023 19:59:00" isEndedSynced="True" />
+    <Attempt id="95" started="05/18/2023 19:59:11" isStartedSynced="True" ended="05/18/2023 19:59:29" isEndedSynced="True" />
+    <Attempt id="96" started="05/18/2023 19:59:45" isStartedSynced="True" ended="05/18/2023 20:05:01" isEndedSynced="True" />
+    <Attempt id="97" started="05/18/2023 20:05:14" isStartedSynced="True" ended="05/18/2023 20:23:33" isEndedSynced="True">
+      <RealTime>00:18:19.2478538</RealTime>
+      <GameTime>00:09:36.8699105</GameTime>
+    </Attempt>
+    <Attempt id="98" started="05/18/2023 20:25:02" isStartedSynced="True" ended="05/18/2023 20:43:13" isEndedSynced="True">
+      <RealTime>00:18:10.9322039</RealTime>
+      <GameTime>00:09:27.8823337</GameTime>
+    </Attempt>
+    <Attempt id="99" started="05/18/2023 20:49:02" isStartedSynced="True" ended="05/18/2023 20:55:02" isEndedSynced="True" />
+    <Attempt id="100" started="05/18/2023 20:55:32" isStartedSynced="True" ended="05/18/2023 21:13:44" isEndedSynced="True">
+      <RealTime>00:18:11.7592451</RealTime>
+      <GameTime>00:09:29.2697972</GameTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -382,6 +399,30 @@
           <RealTime>00:01:14.7371373</RealTime>
           <GameTime>00:00:39.6125106</GameTime>
         </Time>
+        <Time id="93">
+          <RealTime>00:01:15.8833653</RealTime>
+          <GameTime>00:00:40.3056124</GameTime>
+        </Time>
+        <Time id="96">
+          <RealTime>00:01:16.0990993</RealTime>
+          <GameTime>00:00:40.2893406</GameTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:01:15.9066233</RealTime>
+          <GameTime>00:00:40.5472882</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:01:15.0266179</RealTime>
+          <GameTime>00:00:39.5616768</GameTime>
+        </Time>
+        <Time id="99">
+          <RealTime>00:01:14.9186356</RealTime>
+          <GameTime>00:00:39.5644289</GameTime>
+        </Time>
+        <Time id="100">
+          <RealTime>00:01:15.2796054</RealTime>
+          <GameTime>00:00:39.9200815</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -590,6 +631,26 @@
           <RealTime>00:02:32.2569916</RealTime>
           <GameTime>00:01:11.3017722</GameTime>
         </Time>
+        <Time id="96">
+          <RealTime>00:02:33.1608447</RealTime>
+          <GameTime>00:01:11.5907080</GameTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:02:33.5651308</RealTime>
+          <GameTime>00:01:12.8815132</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:02:32.1917040</RealTime>
+          <GameTime>00:01:10.9696935</GameTime>
+        </Time>
+        <Time id="99">
+          <RealTime>00:02:35.7828531</RealTime>
+          <GameTime>00:01:14.6586799</GameTime>
+        </Time>
+        <Time id="100">
+          <RealTime>00:02:33.8620738</RealTime>
+          <GameTime>00:01:12.7190341</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -765,6 +826,22 @@
           <RealTime>00:02:00.4058491</RealTime>
           <GameTime>00:01:17.4877858</GameTime>
         </Time>
+        <Time id="97">
+          <RealTime>00:01:59.5093068</RealTime>
+          <GameTime>00:01:16.5778091</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:02:02.6565129</RealTime>
+          <GameTime>00:01:19.5039529</GameTime>
+        </Time>
+        <Time id="99">
+          <RealTime>00:02:06.0409058</RealTime>
+          <GameTime>00:01:22.8087074</GameTime>
+        </Time>
+        <Time id="100">
+          <RealTime>00:01:59.1607486</RealTime>
+          <GameTime>00:01:16.2395867</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -917,6 +994,18 @@
           <RealTime>00:03:22.6778300</RealTime>
           <GameTime>00:01:46.6616348</GameTime>
         </Time>
+        <Time id="97">
+          <RealTime>00:03:16.9200758</RealTime>
+          <GameTime>00:01:41.2745048</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:03:18.4318153</RealTime>
+          <GameTime>00:01:42.1616171</GameTime>
+        </Time>
+        <Time id="100">
+          <RealTime>00:03:16.6722257</RealTime>
+          <GameTime>00:01:40.8942268</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1015,6 +1104,18 @@
           <RealTime>00:03:41.3871681</RealTime>
           <GameTime>00:02:18.5197229</GameTime>
         </Time>
+        <Time id="97">
+          <RealTime>00:03:37.3114966</RealTime>
+          <GameTime>00:02:14.6638950</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:03:34.5627746</RealTime>
+          <GameTime>00:02:12.0379605</GameTime>
+        </Time>
+        <Time id="100">
+          <RealTime>00:03:38.7894600</RealTime>
+          <GameTime>00:02:16.3804850</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1083,6 +1184,18 @@
           <RealTime>00:01:54.1229578</RealTime>
           <GameTime>00:01:02.6602448</GameTime>
         </Time>
+        <Time id="97">
+          <RealTime>00:02:00.3859513</RealTime>
+          <GameTime>00:01:09.2366084</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:01:53.5015008</RealTime>
+          <GameTime>00:01:02.4882871</GameTime>
+        </Time>
+        <Time id="100">
+          <RealTime>00:01:52.0020841</RealTime>
+          <GameTime>00:01:01.1074871</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1147,6 +1260,18 @@
         <Time id="92">
           <RealTime>00:03:39.1703774</RealTime>
           <GameTime>00:01:25.0267231</GameTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:03:35.6492692</RealTime>
+          <GameTime>00:01:21.6882918</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:03:34.5612784</RealTime>
+          <GameTime>00:01:21.1591458</GameTime>
+        </Time>
+        <Time id="100">
+          <RealTime>00:03:35.9930475</RealTime>
+          <GameTime>00:01:22.0088960</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
