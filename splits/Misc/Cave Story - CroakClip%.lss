@@ -3,6 +3,8 @@
   <GameIcon />
   <GameName>Cave Story</GameName>
   <CategoryName>CroakClip%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -12,12 +14,16 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>2</AttemptCount>
+  <AttemptCount>3</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/03/2020 23:09:09" isStartedSynced="True" ended="06/03/2020 23:09:11" isEndedSynced="True" />
     <Attempt id="2" started="06/03/2020 23:15:03" isStartedSynced="True" ended="06/03/2020 23:19:40" isEndedSynced="True" />
     <Attempt id="3" started="06/03/2020 23:19:51" isStartedSynced="True" ended="06/03/2020 23:29:50" isEndedSynced="True">
       <RealTime>00:09:59.7910000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="06/14/2024 22:03:09" isStartedSynced="True" ended="06/14/2024 22:13:02" isEndedSynced="True">
+      <RealTime>00:09:34.6600000</RealTime>
+      <GameTime>00:05:32.6398467</GameTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -25,16 +31,24 @@
       <Name>Enter Egg</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:47.3517970</RealTime>
+          <GameTime>00:01:51.4876866</GameTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:56.6270000</RealTime>
+        <RealTime>00:03:47.3517970</RealTime>
+        <GameTime>00:01:51.4876866</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
           <RealTime>00:03:56.6270000</RealTime>
         </Time>
         <Time id="3" />
+        <Time id="4">
+          <RealTime>00:03:47.3517970</RealTime>
+          <GameTime>00:01:51.4876866</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -42,15 +56,21 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:59.9760000</RealTime>
+          <RealTime>00:05:50.3995824</RealTime>
+          <GameTime>00:03:11.6145712</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:59.9760000</RealTime>
+        <RealTime>00:02:03.0477854</RealTime>
+        <GameTime>00:01:20.1268846</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
           <RealTime>00:05:59.9760000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:03.0477854</RealTime>
+          <GameTime>00:01:20.1268846</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -59,15 +79,21 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:08:48.6600000</RealTime>
+          <RealTime>00:08:28.3584520</RealTime>
+          <GameTime>00:04:29.2198467</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:48.6840000</RealTime>
+        <RealTime>00:02:37.9588696</RealTime>
+        <GameTime>00:01:17.6052755</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
           <RealTime>00:02:48.6840000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:37.9588696</RealTime>
+          <GameTime>00:01:17.6052755</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -76,18 +102,82 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:09:59.7910000</RealTime>
+          <RealTime>00:09:34.6600000</RealTime>
+          <GameTime>00:05:32.6398467</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:11.1310000</RealTime>
+        <GameTime>00:01:03.4200000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
           <RealTime>00:01:11.1310000</RealTime>
         </Time>
+        <Time id="4">
+          <RealTime>00:01:06.3015480</RealTime>
+          <GameTime>00:01:03.4200000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
   </Segments>
-  <AutoSplitterSettings />
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Perry\Documents\Gaming\LiveSplit\Components\cave-story-combined.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>False</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="SplitPolarStar" type="bool">False</Setting>
+      <Setting id="SplitFirstCave" type="bool">False</Setting>
+      <Setting id="SplitEnterEgg" type="bool">True</Setting>
+      <Setting id="SplitIgor" type="bool">False</Setting>
+      <Setting id="SplitEgg0" type="bool">True</Setting>
+      <Setting id="SplitExitEgg" type="bool">False</Setting>
+      <Setting id="SplitEnterGrass" type="bool">True</Setting>
+      <Setting id="SplitFireball" type="bool">False</Setting>
+      <Setting id="SplitCharcoal" type="bool">False</Setting>
+      <Setting id="SplitBalrog2" type="bool">False</Setting>
+      <Setting id="SplitExitBalrog2" type="bool">False</Setting>
+      <Setting id="SplitGumKey" type="bool">False</Setting>
+      <Setting id="SplitBalfrog" type="bool">False</Setting>
+      <Setting id="SplitExitGum" type="bool">False</Setting>
+      <Setting id="SplitBomb" type="bool">False</Setting>
+      <Setting id="SplitExitGrass" type="bool">False</Setting>
+      <Setting id="SplitEnterSand" type="bool">False</Setting>
+      <Setting id="SplitCurly" type="bool">False</Setting>
+      <Setting id="SplitMachineGun" type="bool">False</Setting>
+      <Setting id="SplitPanties" type="bool">False</Setting>
+      <Setting id="SplitOmega" type="bool">False</Setting>
+      <Setting id="SplitJenka" type="bool">False</Setting>
+      <Setting id="SplitDogs" type="bool">False</Setting>
+      <Setting id="SplitToroko" type="bool">False</Setting>
+      <Setting id="SplitBlade" type="bool">False</Setting>
+      <Setting id="SplitExitSand" type="bool">False</Setting>
+      <Setting id="SplitPoohBlack" type="bool">False</Setting>
+      <Setting id="SplitCureAll" type="bool">False</Setting>
+      <Setting id="SplitMonsterX" type="bool">False</Setting>
+      <Setting id="SplitLabW" type="bool">False</Setting>
+      <Setting id="SplitLabM" type="bool">False</Setting>
+      <Setting id="SplitDrown" type="bool">False</Setting>
+      <Setting id="SplitIronhead" type="bool">False</Setting>
+      <Setting id="SplitEgg2" type="bool">False</Setting>
+      <Setting id="SplitBadEnd" type="bool">False</Setting>
+      <Setting id="SplitOuterWall" type="bool">False</Setting>
+      <Setting id="SplitMushroom" type="bool">False</Setting>
+      <Setting id="SplitLeaveMushroom" type="bool">False</Setting>
+      <Setting id="SplitIronBond" type="bool">False</Setting>
+      <Setting id="SplitSleep" type="bool">False</Setting>
+      <Setting id="SplitEnterFinal" type="bool">False</Setting>
+      <Setting id="SplitFinalCave" type="bool">False</Setting>
+      <Setting id="SplitMisery" type="bool">False</Setting>
+      <Setting id="SplitMiseryExit" type="bool">False</Setting>
+      <Setting id="SplitDoctor" type="bool">False</Setting>
+      <Setting id="SplitDoctorExit" type="bool">False</Setting>
+      <Setting id="SplitUndeadCore" type="bool">False</Setting>
+      <Setting id="SplitNormalEnd" type="bool">False</Setting>
+      <Setting id="SplitEnterHell" type="bool">False</Setting>
+      <Setting id="SplitBestEnd" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
 </Run>
