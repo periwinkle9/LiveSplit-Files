@@ -1,0 +1,1859 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Mario Kart 8 Deluxe</GameName>
+  <CategoryName>48 Tracks (150cc, Items, Cartridge)</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>8</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/12/2023 19:18:36" isStartedSynced="True" ended="03/12/2023 19:18:37" isEndedSynced="True" />
+    <Attempt id="2" started="03/12/2023 19:24:49" isStartedSynced="True" ended="03/12/2023 21:29:03" isEndedSynced="True">
+      <RealTime>02:04:13.5775734</RealTime>
+    </Attempt>
+    <Attempt id="3" started="04/01/2024 19:32:25" isStartedSynced="True" ended="04/01/2024 21:33:03" isEndedSynced="True">
+      <RealTime>02:00:38.6907391</RealTime>
+    </Attempt>
+    <Attempt id="4" started="01/25/2025 18:12:10" isStartedSynced="True" ended="01/25/2025 20:12:35" isEndedSynced="True">
+      <RealTime>02:00:25.6891341</RealTime>
+    </Attempt>
+    <Attempt id="5" started="02/23/2025 19:32:29" isStartedSynced="True" ended="02/23/2025 21:33:02" isEndedSynced="True">
+      <RealTime>02:00:32.9700963</RealTime>
+    </Attempt>
+    <Attempt id="6" started="03/01/2025 18:30:47" isStartedSynced="True" ended="03/01/2025 20:31:05" isEndedSynced="True">
+      <RealTime>02:00:18.4467149</RealTime>
+    </Attempt>
+    <Attempt id="7" started="03/02/2025 19:27:50" isStartedSynced="True" ended="03/02/2025 19:31:53" isEndedSynced="True" />
+    <Attempt id="8" started="03/02/2025 19:32:15" isStartedSynced="True" ended="03/02/2025 21:32:02" isEndedSynced="True">
+      <RealTime>01:59:46.7629828</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>-Mario Kart Stadium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:17.9486468</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:17.6190182</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:23.0600000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:26.6000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:32.0628353</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:22.6737182</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:24.4092225</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:17.6190182</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:18.3759498</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:18.0804869</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:17.9486468</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Water Park</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:28.7180667</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:10.7694199</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:29.1800000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:27.8330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:26.0279753</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:16.7012181</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:21.8787484</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:19.2528253</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:16.0383378</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:10.7694199</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Sweet Sweet Canyon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:58.4825090</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:28.2900000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:28.2900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:38.8330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:43.8750387</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:33.3106422</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:36.0924699</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:29.8683786</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:32.1301201</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:29.7644423</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Mushroom Cup} Thwomp Ruins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:35.2051026</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:30.2192343</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:32.5900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:43.3330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:45.2851828</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:30.2911314</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:43.7597353</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:30.2192343</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:34.7002343</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:36.7225936</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Mario Circuit</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:05.1726862</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:23.0317322</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:27.4500000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:32.4670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:29.9193446</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:31.0475151</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:30.5555849</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:32.5030300</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:23.0317322</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:29.9675836</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Toad Harbor</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:54.9500172</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:43.0700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:43.0800000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:57.5999990</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:57.4751635</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:45.2262561</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:55.4996976</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:50.9506479</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:49.3528635</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:49.7773310</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Twisted Mansion</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:36.1371266</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:35.6829021</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:42.4700000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:52.3660010</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:47.6681347</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:36.2916584</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:35.6829021</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:43.7766047</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:37.4822468</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:41.1871094</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Flower Cup} Shy Guy Falls</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:12.9536917</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:36.8165651</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:47.1900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:53.3000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:47.1800000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:48.5609301</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:38.5465170</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:46.9339799</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:39.3837789</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:36.8165651</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Sunshine Airport</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:22:48.4748484</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:34.4484212</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:02:52</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:45.6800000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:34.4484212</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:36.7897451</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:42.2971798</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:38.6771063</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:35.5211567</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Dolphin Shoals</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:29.3937146</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:34.0654030</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:45.4200000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:54.2330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:44.7712505</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:37.9102995</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:44.7807161</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:37.6470434</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:34.0654030</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:40.9188662</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Electrodrome</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:05.4824996</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:36.0887850</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:48.0600000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:51.3330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:51.3897643</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:43.3258811</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:50.5839451</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:45.4271160</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:48.5664701</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:36.0887850</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Star Cup} Mount Wario</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:30:27.5143463</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:22.0318467</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:28.3000000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:41.9670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:28.8839911</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:31.3371772</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:29.2346527</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:25.6503486</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:31.0454375</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:22.0318467</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Cloudtop Cruise</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:33:15.1567845</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:36.3072293</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:54.2900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:56.1000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:54.1120101</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:50.2536762</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:41.1032735</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:38.2292315</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:36.3072293</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:47.6424382</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Bone-Dry Dunes</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:45.0707317</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:29.9139472</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:43.9800000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:57.1660000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:43.9700000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:32.4788942</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:33.3068081</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:36.7596382</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:32.1777983</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:29.9139472</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Bowser's Castle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:25.9510346</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:40.8803029</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:47.6900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:54.6330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:57.9529336</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:48.3732803</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:46.5177763</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:03:00.2053182</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:51.1538617</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:40.8803029</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Special Cup} Rainbow Road</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:41:07.6982834</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:41.7472488</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:53.0100000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:07.6000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:54.0312440</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:45.1522322</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:42.3875959</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:48.7188925</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:42.7650820</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:41.7472488</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Wii Moo Moo Meadows</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:43:14.8297041</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:00.2173463</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:11</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:13.8000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:12.3245981</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:03.3408446</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:09.4937621</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:00.2173463</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:03.3515325</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:07.1314207</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-GBA Mario Circuit</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:45:19.7540733</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:00.0700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:10.0300000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:19.7670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:08.3001336</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:06.7890827</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:03.3453371</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:09.0166096</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:09.0707261</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:04.9243692</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-DS Cheep Cheep Beach</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:47:45.3533583</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:25.5992850</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:35.7600000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:41.2660000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:30.5500000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:40.9471302</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:28.0548351</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:29.0560584</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:30.1542748</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:25.5992850</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Shell Cup} N64 Toad's Turnpike</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:50:20.8038057</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:19.7575217</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:02:39.6670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:29</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:19.7575217</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:25.7724478</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:20.8951153</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:22.6975875</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:35.4504474</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-GCN Dry Dry Desert</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:53:11.6034263</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:41.4249324</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:52.7800000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:00.5000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:52.7700000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:51.1441641</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:48.3972267</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:41.4249324</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:46.5573809</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:50.7996206</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-SNES Donus Plains 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:55:12.9576649</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:54.7464628</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:00.8900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:13.3000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:04.8830513</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:54.7464628</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:57.7784440</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:59.4213466</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:01:58.5339287</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:01.3542386</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-N64 Royal Raceway</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:57:58.7025338</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:37.9800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:37.9800000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:54.9330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:49.8218688</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:50.5789226</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:38.3941130</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:50.0888186</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:39.4962586</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:45.7448689</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Banana Cup} 3DS DK Jungle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:00:49.0862818</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:43.6940433</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:53.3100000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:53.3000000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:45.5565643</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:43.6940433</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:47.0061248</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:43.9158936</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:50.3837480</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-DS Wario Stadium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:03:19.1134609</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:30.0271791</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:40.2000000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:51.5000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:40.1900000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:33.9429683</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:34.7616332</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:35.0499486</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:33.1213489</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:30.0271791</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-GCN Sherbet Land</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:49.6150682</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:30.5016073</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:37.5100000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:55.3000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:37.6863478</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:34.5794757</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:38.9226100</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:42.5024404</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:41.3182576</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:30.5016073</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-3DS Music Park</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:08:24.7312685</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:27.9714607</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:38</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:57.5330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:37.9900000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:33.2212527</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:38.4462732</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:40.3611580</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:27.9714607</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:35.1162003</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Leaf Cup} N64 Yoshi Valley</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:11:21.1091854</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:39.6990162</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:55.4100000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:59.3670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:50.4165852</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:41.4176227</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:39.6990162</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:52.4766076</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:43.5011735</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:56.3779169</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-DS Tick-Tock Clock</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:13:54.2498382</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:20.9574708</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:39.0900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:37.5000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:27.5734665</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:27.6580023</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:20.9574708</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:26.2409088</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:33.8812412</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:33.1406528</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-3DS Piranha Plant Slide</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:55.6558268</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:45.8911781</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:54.6100000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:58.2659999</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:56.1337594</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:45.8911781</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:53.7190158</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:56.1468844</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:49.6750903</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:03:01.4059886</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Wii Grumble Volcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:19:35.5146954</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:35.9300954</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:41.6000000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:04.1000001</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:45.0593522</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:44.1764256</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:35.9300954</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:41.5710224</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:43.7331317</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:39.8588686</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Lightning Cup} N64 Rainbow Road</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:21:29.5114898</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:53.9967944</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:01:58.6200000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:58.6100000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:00.9290457</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:57.3426864</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:02.5355134</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:57.1244839</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:00.6728308</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:53.9967944</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-GCN Yoshi Circuit</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:23:51.1620037</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:21.6505139</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:37.9800000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:47.6000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:32.8200000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:28.8216995</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:30.0732012</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:23.7575570</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:29.2929223</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:21.6505139</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Excitebike Arena</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:26:23.5666864</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:18.7694072</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:26.8700000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:28.8669999</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:31.8180853</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:25.9781057</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:18.7694072</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:28.5961221</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:30.6190822</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:32.4046827</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Dragon Driftway</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:28:56.6526265</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:29.0924365</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:31.1600000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:32.2330001</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:34.2280802</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:29.0924365</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:29.4787705</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:29.3235638</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:32.0260899</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:33.0859401</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Egg Cup} Mute City</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:31:27.7634406</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:31.1108141</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:32.9500000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:43.8670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:42.8330851</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:36.6998857</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:34.4456687</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:34.8264386</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:39.8025350</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:31.1108141</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Wii Wario's Gold Mine</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:34:11.5463544</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:40.2096346</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:45.9400000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:09.8670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:45.7100000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:46.0319507</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:47.4473065</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:40.2096346</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:47.3604903</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:43.7829138</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-SNES Rainbow Road</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:36:27.8539838</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:01.0028204</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:02.9200000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:14.8670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:11.6917865</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:11.7704126</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:07.6264085</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:10.9643532</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:01.0028204</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:16.3076294</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Ice Ice Outpost</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:38:57.3943521</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:25.3589793</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:35.5300000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:42.2000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:41.1813996</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:39.8792296</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:37.7010844</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:25.3589793</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:32.6437852</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:29.5403683</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Triforce Cup} Hyrule Circuit</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:41:25.5475644</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:28.1532123</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:36.8600000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:46.0999999</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:46.4997276</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:32.9954932</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:29.3867821</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:28.7996787</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:32.1560741</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:28.1532123</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-GCN Baby Park</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:43:03.3119201</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:37.7643557</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:01:48.2200000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:00.8330001</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:44.4500000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:45.1175337</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:45.8495155</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:49.5002608</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:01:40.9801625</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:37.7643557</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-GBA Cheese Land</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:45:28.1017622</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:24.7898421</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:36.0300000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:50.2000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:36.9309263</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:30.3692465</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:27.6386117</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:26.1429080</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:32.2222507</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:24.7898421</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Wild Woods</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:48:07.7080931</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:26.5036163</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:28.4800000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:46.4330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:32.5310400</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:34.7539874</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:33.6394413</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:26.5036163</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:38.5375995</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:39.6063309</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Crossing Cup} Animal Crossing</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:50:25.3874839</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:17.5700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:17.5800000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:30.0330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:20.7374003</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:21.5610425</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:23.5711683</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:24.5878550</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:22.9484025</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:17.6793908</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-3DS Neo Bowser City</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:52:54.0266570</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:24.2398165</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:02:39.5670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:31.6400000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:32.1892260</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:28.4550462</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:24.2398165</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:41.5391933</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:28.6391731</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-GBA Ribbon Road</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:55:32.0728749</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:31.2971006</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:40.7900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:58.9330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:43.4387083</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:39.6541787</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:36.8790953</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:39.7158906</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:31.2971006</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:38.0462179</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Super Bell Subway</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:57:49.8876667</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:17.8147918</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:26.9100000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:30.5330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:32.8715827</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:26.8848253</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:33.4778593</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:29.7847848</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:37.9422306</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:17.8147918</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Bell Cup} Big Blue</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:59:46.7629828</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:50.2185398</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:01:57.8900000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:03.4000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:11.1553616</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:58.4182492</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:50.2185398</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:56.0003438</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:01:55.1702068</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:56.8753161</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
